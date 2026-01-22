@@ -26,7 +26,7 @@ The goal is to analyze the Netflix dataset to uncover how the platform's content
 
 ## 🚀 Repository Structure
 ```text
-Netflix_Content_Dataset_EDA/
-├── Project_Netflix_Content_Dataset_EDA.ipynb   # Main analysis notebook
+Project-Netflix_Content_Dataset_EDA/
+├── Project-Netflix_Content_Dataset_EDA.ipynb   # Main analysis notebook
 ├── netflix_titles.csv                          # Dataset (if applicable)
 └── README.md                                   # Project documentation
